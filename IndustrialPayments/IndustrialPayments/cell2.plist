@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>value1</key>
+		<string>交易类型:</string>
+		<key>value2</key>
+		<string>bussType</string>
+	</dict>
+	<dict>
+		<key>value1</key>
+		<string>票据状态:</string>
+		<key>value2</key>
+		<string>billStatus</string>
+	</dict>
+	<dict>
+		<key>value1</key>
+		<string>承兑行类型:</string>
+		<key>value2</key>
+		<string>bankType</string>
+	</dict>
+	<dict>
+		<key>value1</key>
+		<string>承兑行名称:</string>
+		<key>value2</key>
+		<string>fullName</string>
+	</dict>
+	<dict>
+		<key>value1</key>
+		<string>出票日期:</string>
+		<key>value2</key>
+		<string>drawDate</string>
+	</dict>
+	<dict>
+		<key>value1</key>
+		<string>到期时间:</string>
+		<key>value2</key>
+		<string>billEndDate</string>
+	</dict>
+	<dict>
+		<key>value1</key>
+		<string>发布日期:</string>
+		<key>value2</key>
+		<string>productDateFrom</string>
+	</dict>
+	<dict>
+		<key>value1</key>
+		<string>票据所在地:</string>
+		<key>value2</key>
+		<string>areaName</string>
+	</dict>
+</array>
+</plist>
